@@ -1,0 +1,18 @@
+# Ignore the following files and directories when building the Docker image
+target/
+*.log
+*.class
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.bak
+*.swp
+.idea/
+*.iml
+.DS_Store
+.env
+README.md
+Dockerfile
